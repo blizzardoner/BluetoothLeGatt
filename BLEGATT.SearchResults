@@ -1,0 +1,9 @@
+---- DeviceScanActivity Matches (8 in 5 files) ----
+AndroidManifest.xml (application\build\intermediates\manifests\full\debug):            android:name="com.example.android.bluetoothlegatt.DeviceScanActivity"
+AndroidManifest.xml (application\src\main):        <activity android:name=".DeviceScanActivity"
+DeviceScanActivity.java (application\src\main\java\com\example\android\bluetoothlegatt):public class DeviceScanActivity extends ListActivity {
+DeviceScanActivity.java (application\src\main\java\com\example\android\bluetoothlegatt):            mInflator = DeviceScanActivity.this.getLayoutInflater();
+Manifest-merger-debug-report.txt (application\build\outputs\logs):activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+Workspace.xml (.idea):      <file leaf-file-name="DeviceScanActivity.java" pinned="false" current-in-tab="false">
+Workspace.xml (.idea):        <entry file="file://$PROJECT_DIR$/Application/src/main/java/com/example/android/bluetoothlegatt/DeviceScanActivity.java">
+Workspace.xml (.idea):    <entry file="file://$PROJECT_DIR$/Application/src/main/java/com/example/android/bluetoothlegatt/DeviceScanActivity.java">
